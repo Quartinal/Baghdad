@@ -29,3 +29,5 @@ A new unblocked browser window exploit like Skiovox discovered by me. Credits to
 
 **(h**
   Now, finally, you can browse without the annoyance of extensions!
+
+### Please note that the browser window will disappear after roughly one minute.
