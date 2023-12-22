@@ -22,7 +22,7 @@ A new unblocked browser window exploit like Skiovox discovered by me. Credits to
   Fifth, set the first `Custom name servers` value to `52.207.185.90`.
 
 **(f**
-  Sixth, you'll see a link in the normal school district login window that says `Visit this network's sign-in page`.
+  Sixth, you'll see a link in the normal district login window that says `Visit this network's sign-in page`.
 
 **(g**
   Once you see the sign-in page with a black background, click on the link `Webview link for tests`.
