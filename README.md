@@ -2,7 +2,7 @@
 
 A new unblocked browser window exploit like Skiovox discovered by me. Credits to creators of the 52.207.185.90 DNS exploit.
 
-![Status | Unpatched](https://img.shields.io/badge/Status-Unpatched-green) ![Chrome Version | 118](https://img.shields.io/badge/Chrome_Version-118-green)
+![Status | Unpatched](https://img.shields.io/badge/Status-Unpatched-green) ![Chrome Version | 120](https://img.shields.io/badge/Chrome_Version-120-green)
 
 ### How To Use
 
